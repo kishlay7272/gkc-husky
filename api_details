@@ -1,0 +1,53 @@
+Order Page:
+OrderID
+Customer_Name
+Restaurant_Name
+Item_Name
+Note//add customisation in orders
+Status
+Platform_Name
+No. of items
+
+OrderInfo Page:
+Courier Tab-
+Platform_Name
+Delivery guy name
+Delivery guy phone no.
+Status
+Customer Tab-
+Customer_Name
+Customer_PhoneNo
+Address if available//add customer address
+Right Column:
+No. of items 
+Customer Name
+Items_Name
+Item_price
+Item_Quantity
+Note
+Subtotal
+Tax
+Total
+Platform name
+Order_ID
+Placed On//add order_time in order
+Status
+Collapse
+
+gkc/getOrders----all order info with filters and pagination;
+
+gkc/getOrderDetails----all order info with filters and pagination;
+
+
+gkc/confirm;---to confirm order;
+
+gkc/pickup_ready;---to make orders ready for pickup;
+
+
+gkc/completed;----for completed orders;
+
+
+
+
+
+
